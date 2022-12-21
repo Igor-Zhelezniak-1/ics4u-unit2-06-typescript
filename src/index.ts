@@ -35,4 +35,3 @@ while (counter < three) {
 }
 
 console.log(biplane.getSpeed())
-

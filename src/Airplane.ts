@@ -21,4 +21,3 @@ class Airplane {
 }
 
 export = Airplane
-
